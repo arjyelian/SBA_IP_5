@@ -1,4 +1,4 @@
-#To find the greatest product of 13 adjacent digits
+#To find the greatest product of 13 adjacent digits using Python Programming Language
 a=[]
 b=[]
 c=[]
